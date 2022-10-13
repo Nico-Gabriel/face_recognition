@@ -1,0 +1,8 @@
+# ignore the idea folder
+.idea
+
+# ignore all image folders
+*images/
+
+# ignore others
+.DS_Store

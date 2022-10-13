@@ -1,1 +1,3 @@
-# face_recognition
+# Face Recognition
+
+python face recognition using opencv
